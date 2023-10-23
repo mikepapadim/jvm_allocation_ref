@@ -10,8 +10,8 @@ import java.util.List;
 
 public class Alloc {
 
-    private static final int[] ARRAY_SIZE_VALUES = {1, 5, 50, 500, 1000};
-    private static final int[] ITERATIONS = {10, 50, 100, 200};
+    private static final int[] ARRAY_SIZE_VALUES = {1, 5, 50, 500, 1000, 2000};
+    private static final int[] ITERATIONS = {1, 10, 50, 100, 200};
 
     public static void main(String[] args) {
 
